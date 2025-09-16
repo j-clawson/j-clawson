@@ -8,7 +8,7 @@
 🏫 **Where am I now?**: Los Angeles, California (Population: 3.9 million)  
 😄 **Hobbies**: Listening to music, reading and writing poetry, hiking, visiting art museums
 
-# Technical Skills
+## Technical Skills
 
 **Programming Languages**: Python, R, SQL, Java, C++, Bash  
 **Libraries/Frameworks**: BeautifulSoup, Matplotlib, NumPy, Pandas, Seaborn, Sentence Transformers, scikit-learn  
