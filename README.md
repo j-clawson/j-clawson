@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm James Clawson
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/james-clawson-a24292291/) | [![Email me!](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto::theclaw2023@g.ucla.edu)
 
-🎓 Third-Year UCLA Student | Data Theory Major | Data Science Engineering and Korean Language Minors\n
+🎓 Third-Year UCLA Student | Data Theory Major | Data Science Engineering and Korean Language Minors/n
 🏫 Califon, New Jersey, Population: < 1000 --> Los Angeles, California, Population: ~3.9 million
 <!--
 **j-clawson/j-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
