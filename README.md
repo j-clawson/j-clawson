@@ -1,5 +1,7 @@
 ## 👋 Hello! I'm James Clawson
 
+🏫 Third-Year UCLA Student | Data Theory Major | Data Science Engineering and Korean Language Minors
+
 <!--
 **j-clawson/j-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
