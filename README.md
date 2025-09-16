@@ -3,7 +3,8 @@
 
 🎓 **Major**: Data Theory | **Minors**: Data Science Engineering and Korean Language  
 🌱 **Hometown**: Califon, New Jersey (Population: 1000)  
-🏫 **Where am I now?**: Los Angeles, California (Population: 3.9 million)
+🏫 **Where am I now?**: Los Angeles, California (Population: 3.9 million)  
+😄 **Hobbies**: Listening to music, reading and writing poetry, hiking, visiting art museums
 
 <!--
 **j-clawson/j-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
