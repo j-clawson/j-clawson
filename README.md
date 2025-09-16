@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm James Clawson, a third-year UCLA student from New Jersey
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/james-clawson-a24292291/) [![Email me!](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto::theclaw2023@g.ucla.edu)
 
-# ❓About Me
+## ❓About Me
 
 🎓 **Major**: Data Theory | **Minors**: Data Science Engineering and Korean Language  
 🌱 **Hometown**: Califon, New Jersey (Population: 900)  
