@@ -10,10 +10,8 @@
 
 # Technical Skills
 
-**Programming Languages**: Python, R, SQL, Java, C++, Bash
-**Libraries/Frameworks**: BeautifulSoup, Matplotlib, NumPy, Pandas, Seaborn, Sentence Transformers, scikit-learn
-
-scikit-learn, Sentence Transformers, Pandas, NumPy, BeautifulSoup, Matplotlib & Seaborn,
+**Programming Languages**: Python, R, SQL, Java, C++, Bash  
+**Libraries/Frameworks**: BeautifulSoup, Matplotlib, NumPy, Pandas, Seaborn, Sentence Transformers, scikit-learn  
 **Tools**: Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, Vector Databases (Chroma)
 
 
