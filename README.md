@@ -26,7 +26,7 @@ ___
 
 #### **[Machine Learning Researcher](https://ucladatares.com/teams/research/) at DataRes**
 - Selected from a competitive university-wide applicant pool to collaborate with peers on deep learning and natural language processing projects
-- Most recent project, a Car Manual LLM, made use of sentence-transformers, the Chroma vector database, and a retrieval-augmented generation (RAG) pipeline --> more information in the Projects section below!
+- Most recent project, a Car Manual LLM, makes use of sentence-transformers, the Chroma vector database, and a retrieval-augmented generation (RAG) pipeline --> more information in the Projects section below!
   
 #### **[Statistical Researcher](https://lohmueller.eeb.ucla.edu/) at the Lohmueller Lab**
 - Implementing statistical modeling techniques via Python and Bash scripts to visualize genetic variation across the Channel Island and Gray Fox populations
