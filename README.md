@@ -7,7 +7,7 @@
 🎓 **Major**: Data Theory | **Minors**: Data Science Engineering and Korean Language  
 🌱 **Hometown**: Califon, New Jersey (Population: 900)  
 🏫 **Where am I now?**: Los Angeles, California (Population: 3.9 million)  
-😄 **Hobbies**: Listening to music, reading and writing poetry, hiking, visiting art museums
+😄 **Hobbies**: Listening to music, reading and writing poetry, hiking, exploring art museums
 ___
 
 
