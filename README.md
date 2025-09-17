@@ -24,9 +24,12 @@ ___
 
 * **[Machine Learning Researcher](https://ucladatares.com/teams/research/) at DataRes** - Selected from a competitive university-wide applicant pool to collaborate with peers on deep learning and natural language processing projects involving the use of sentence-transformers, large language models, and retrieval-augmented generation (RAG) pipelines
   
-* **[Statistical Researcher](https://lohmueller.eeb.ucla.edu/) at the Lohmueller Lab** - Implementing statistical modeling techniques via Python and Bash scripts to visualize genetic variation across the Channel Island and Gray Fox populations, utilizing Hoffman2, UCLA's high-powered computing (HPC) server
+* **[Statistical Researcher](https://lohmueller.eeb.ucla.edu/) at the Lohmueller Lab** - Implementing statistical modeling techniques via Python and Bash scripts to visualize genetic variation across the Channel Island and Gray Fox populations, utilizing Hoffman2, UCLA's high-powered computing (HPC) cluster
   
-* **[Peer Learning Facilitator](https://www.aap.ucla.edu/units/peer-learning/) at UCLA AAP** - Mentor students in Math 115A (Linear Algebra) and Stats 100A (Intro to Probability)
+* **[Peer Learning Facilitator](https://www.aap.ucla.edu/units/peer-learning/) at UCLA AAP** - Serving as a peer mentor for low-income, underrepresented undergraduates in the AAP community. Started as the sole Math 115A (Linear Algebra) peer tutor during the Spring 2025 quarter, now teaching Statistics 100A (Introduction to Probability).
+___
+
+## ⚡ Projects
 
 <!--
 **j-clawson/j-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
