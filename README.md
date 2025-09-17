@@ -40,10 +40,18 @@ ___
 
 #### **[Assessing Wealth's Influence on Child Mortality Across Peru](https://github.com/j-clawson/bdsy-pbh-peru)** - Big Data Summer Immersion at Yale
 - Collaborators: Antonio Bolea (Yale University) and Kevin Truong (University of California, Berkeley)
+- Statistical Methods: Time-Series Analysis, Bayesian Hierarchial Modeling, and Unsupervised Machine Learning (Association Rule Learning)
+- Notable R Libraries: ggplot2, JAGS, arules, arulesViz
 
   
-#### **[Car Manual Large Language Model](https://github.com/j-clawson/car-manual-llm)** -- DataRes Research Team
+#### **[Car Manual Large Language Model](https://github.com/j-clawson/car-manual-llm)** - DataRes Research Team
 - Collaborators: Aryan Gupta, Christian Chen, and Parnika Chaturvedi
+- Technologies: ChromaDB, OpenAI CLIP, OpenAI GPT-4 Vision, Python, TypeScript
+- Notable Python Libraries: BeautifulSoup, PyPDF2, Sentence-Transformers
+
+#### **[A Deep Learning Approach to Uncovering Emotional Narratives in North Korean Defections](https://github.com/j-clawson/nkdefector_project)** - Ongoing Independent Research
+- Technologies: Microsoft Excel, Microsoft SQL Server, Python, SQL, Tableau
+- Notable Python Libraries: BeautifulSoup, Matplotlib, Seaborn, scikit-learn
 <!--
 **j-clawson/j-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
