@@ -21,13 +21,15 @@ ___
 ## 🔭 Relevant Experience
 #### **[Data Science Intern](https://www.bdsy.org) at Yale University**
 - Selected as one of 25 undergraduates from a global pool of over 850 applicants for Yale's inaugural Big Data Summer Immersion (BDSY), engaging with Yale faculty over logistic regression, neural networks, advanced SQL querying, and the applications of generative AI models
-- Designed and led the presentation of an original research poster to an audience of ~100 Yale faculty and researchers at the Symposium on Big Data, Human Health, and Statistics (more details on this in the Project section below!)  
+- Designed and led the presentation of an original research poster to an audience of ~100 Yale faculty and researchers at the Symposium on Big Data, Human Health, and Statistics (more details on this in the Projects! section below!)  
 
 #### **[Machine Learning Researcher](https://ucladatares.com/teams/research/) at DataRes**
-- Selected from a competitive university-wide applicant pool to collaborate with peers on deep learning and natural language processing projects involving the use of sentence-transformers, large language models, and retrieval-augmented generation (RAG) pipelines  
+- Selected from a competitive university-wide applicant pool to collaborate with peers on deep learning and natural language processing projects
+- Most recent project, a Car Manual LLM, made use of sentence-transformers, the Chroma vector database, and a retrieval-augmented generation (RAG) pipeline --> more information in the Projects section below!
   
 #### **[Statistical Researcher](https://lohmueller.eeb.ucla.edu/) at the Lohmueller Lab**
-- Implementing statistical modeling techniques via Python and Bash scripts to visualize genetic variation across the Channel Island and Gray Fox populations, utilizing Hoffman2, UCLA's high-powered computing (HPC) cluster  
+- Implementing statistical modeling techniques via Python and Bash scripts to visualize genetic variation across the Channel Island and Gray Fox populations
+- Utilizing Hoffman2, UCLA's high-powered computing (HPC) cluster  
 
 #### **[Peer Learning Facilitator](https://www.aap.ucla.edu/units/peer-learning/) at UCLA AAP**
 - Serving as a peer mentor for low-income, underrepresented undergraduates in the AAP community
