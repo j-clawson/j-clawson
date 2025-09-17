@@ -44,8 +44,8 @@ ___
 Presented an original research poster, analyzing ~2.5 million pneumococcal cases to identify no wealth-based disparities in child mortality decline using time-series analysis, Bayesian 
 hierarchical modeling, and unsupervised machine learning (Apriori algorithm) 
 
-Collaborators: Antonio Bolea (Yale University) and Kevin Truong (University of California, Berkeley)
-Notable R Libraries: ggplot2, JAGS, arules, arulesViz
+- Collaborators: Antonio Bolea (Yale University) and Kevin Truong (University of California, Berkeley)
+- Notable R Libraries: ggplot2, JAGS, arules, arulesViz
 
   
 #### **[Car Manual Large Language Model](https://github.com/j-clawson/car-manual-llm)** - DataRes Research Team
