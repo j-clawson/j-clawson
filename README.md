@@ -38,10 +38,10 @@ ___
 
 ## ⚡ Projects
 
-#### **[Assessing Wealth's Influence on Child Mortality Across Peru](https://github.com/j-clawson/bdsy-pbh-peru)**
+#### **[Assessing Wealth's Influence on Child Mortality Across Peru](https://github.com/j-clawson/bdsy-pbh-peru)** - Big Data Summer Immersion at Yale
 **Collaborators**: Antonio Bolea (Yale University) and Kevin Truong (University of California, Berkeley)
 
-#### **[Car Manual Large Language Model](https://github.com/j-clawson/car-manual-llm)**
+#### **[Car Manual Large Language Model](https://github.com/j-clawson/car-manual-llm)** -- DataRes Research Team
 **Collaborators**: Aryan Gupta, Christian Chen, and Parnika Chaturvedi
 <!--
 **j-clawson/j-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
