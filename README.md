@@ -18,8 +18,6 @@ ___
 **Tools**: Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, Vector Databases (Chroma)
 ___
 
-
-
 ## 🔭 Relevant Experience
 #### **[Data Science Intern](https://www.bdsy.org) at Yale University**
 - Selected as one of 25 undergraduates from a global pool of over 850 applicants for Yale's inaugural Big Data Summer Immersion (BDSY), engaging with Yale faculty over logistic regression, neural networks, advanced SQL querying, and the applications of generative AI models
