@@ -15,7 +15,9 @@
 **Tools**: Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, Vector Databases (Chroma)
 
 ## 🔭 Relevant Experience
-* **[Data Science Intern](https://www.bdsy.org) at Yale University** - Worked on
+* **[Data Science Intern](https://www.bdsy.org) at Yale University** - Selected as one of 25 undergraduates from a global pool of over 850 applicants for the Yale cohort
+* **[Machine Learning Researcher](https://ucladatares.com/teams/research/) at DataRes - Selected from a university-wide applicant pool to collaborate on deep learning and NLP projects
+* **[Statistical Researcher](https://lohmueller.eeb.ucla.edu/) at the Lohmueller Lab - Implement statistical modeling via Python and Bash scripts to visualize genetic variation across genomic sequences
 
 <!--
 **j-clawson/j-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
