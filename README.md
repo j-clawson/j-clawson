@@ -15,7 +15,7 @@
 **Tools**: Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, Vector Databases (Chroma)
 
 ## 🔭 Relevant Experience
-* **[Data Science Intern](https://www.bdsy.org) at Yale University** - 
+* **[Data Science Intern](https://www.bdsy.org) at Yale University** - Worked on
 
 <!--
 **j-clawson/j-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
