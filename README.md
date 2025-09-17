@@ -16,7 +16,7 @@ ___
 
 **Programming Languages**: Python, R, SQL, Java, C++, Bash  
 **Libraries/Frameworks**: BeautifulSoup, Matplotlib, NumPy, Pandas, Seaborn, Sentence Transformers, scikit-learn  
-**Tools**: Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, Vector Databases (Chroma)
+**Tools**: ChromaDB, Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, VSCode
 ___
 
 ## 🔭 Relevant Experience
