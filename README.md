@@ -40,9 +40,12 @@ ___
 ## ⚡ Projects
 
 #### **[Assessing Wealth's Influence on Child Mortality Across Peru](https://github.com/j-clawson/bdsy-pbh-peru)** - Big Data Summer Immersion at Yale
-- Collaborators: Antonio Bolea (Yale University) and Kevin Truong (University of California, Berkeley)
-- Statistical Methods: Time-Series Analysis, Bayesian Hierarchial Modeling, and Unsupervised Machine Learning (Association Rule Learning)
-- Notable R Libraries: ggplot2, JAGS, arules, arulesViz
+
+Presented an original research poster, analyzing ~2.5 million pneumococcal cases to identify no wealth-based disparities in child mortality decline using time-series analysis, Bayesian 
+hierarchical modeling, and unsupervised machine learning (Apriori algorithm) 
+
+Collaborators: Antonio Bolea (Yale University) and Kevin Truong (University of California, Berkeley)
+Notable R Libraries: ggplot2, JAGS, arules, arulesViz
 
   
 #### **[Car Manual Large Language Model](https://github.com/j-clawson/car-manual-llm)** - DataRes Research Team
