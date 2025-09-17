@@ -20,9 +20,12 @@ ___
 
 
 ## 🔭 Relevant Experience
-* **<a href="https://www.bdsy.org" style="text-decoration:none; color:#0366d6;">Data Science Intern</a> at Yale University** - Selected as one of 25 undergraduates from a global pool of over 850 applicants for Yale's inaugural Big Data Summer Immersion (BDSY), engaging with Yale faculty over logistic regression, neural networks, advanced SQL querying, and the applications of generative AI models. Designed and led the presentation of an original research poster to an audience of ~100 Yale faculty and researchers at the Symposium on Big Data, Human Health, and Statistics (more details on this in the Project section below!)
+* **[Data Science Intern](https://www.bdsy.org) at Yale University** - Selected as one of 25 undergraduates from a global pool of over 850 applicants for Yale's inaugural Big Data Summer Immersion (BDSY), engaging with Yale faculty over logistic regression, neural networks, advanced SQL querying, and the applications of generative AI models. Designed and led the presentation of an original research poster to an audience of ~100 Yale faculty and researchers at the Symposium on Big Data, Human Health, and Statistics (more details on this in the Project section below!)
+
 * **[Machine Learning Researcher](https://ucladatares.com/teams/research/) at DataRes** - Selected from a competitive university-wide applicant pool to collaborate with peers on deep learning and natural language processing projects involving the use of sentence-transformers, large language models, and retrieval-augmented generation (RAG) pipelines
+  
 * **[Statistical Researcher](https://lohmueller.eeb.ucla.edu/) at the Lohmueller Lab** - Implementing statistical modeling techniques via Python and Bash scripts to visualize genetic variation across the Channel Island and Gray Fox populations, utilizing Hoffman2, UCLA's high-powered computing (HPC) server
+  
 * **[Peer Learning Facilitator](https://www.aap.ucla.edu/units/peer-learning/) at UCLA AAP** - Mentor students in Math 115A (Linear Algebra) and Stats 100A (Intro to Probability)
 
 <!--
