@@ -49,11 +49,15 @@ hierarchical modeling, and unsupervised machine learning (Apriori algorithm)
 
   
 #### **[Car Manual Large Language Model](https://github.com/j-clawson/car-manual-llm)** - DataRes Research Team
+
+Developed Drive and Diagnose (DAD), a scalable multimodal NLP and RAG pipeline capable of processing any car manual PDF or dashboard warning light to help drivers identify and address vehicle issues
 - Collaborators: Aryan Gupta, Christian Chen, and Parnika Chaturvedi
 - Technologies: ChromaDB, OpenAI CLIP, OpenAI GPT-4 Vision, Python, TypeScript
 - Notable Python Libraries: BeautifulSoup, PyPDF2, Sentence-Transformers
 
 #### **[A Deep Learning Approach to Uncovering Emotional Narratives in North Korean Defections](https://github.com/j-clawson/nkdefector_project)** - Ongoing Independent Research
+
+Building a multi-class logistic regression sentiment analysis model in scikit-learn to analyze emotional trends across different stages of defection
 - Technologies: Microsoft Excel, Microsoft SQL Server, Python, SQL, Tableau
 - Notable Python Libraries: BeautifulSoup, Matplotlib, Seaborn, scikit-learn
 <!--
