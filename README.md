@@ -20,7 +20,7 @@ ___
 
 
 ## 🔭 Relevant Experience
-**[Data Science Intern](https://www.bdsy.org) at Yale University** - Selected as one of 25 undergraduates from a global pool of over 850 applicants for Yale's inaugural Big Data Summer Immersion (BDSY), engaging with Yale faculty over logistic regression, neural networks, advanced SQL querying, and the applications of generative AI models. Designed and led the presentation of an original research poster to an audience of ~100 Yale faculty and researchers at the Symposium on Big Data, Human Health, and Statistics (more details on this in the Project section below!)  
+#### **[Data Science Intern](https://www.bdsy.org) at Yale University** - Selected as one of 25 undergraduates from a global pool of over 850 applicants for Yale's inaugural Big Data Summer Immersion (BDSY), engaging with Yale faculty over logistic regression, neural networks, advanced SQL querying, and the applications of generative AI models. Designed and led the presentation of an original research poster to an audience of ~100 Yale faculty and researchers at the Symposium on Big Data, Human Health, and Statistics (more details on this in the Project section below!)  
 
 **[Machine Learning Researcher](https://ucladatares.com/teams/research/) at DataRes** - Selected from a competitive university-wide applicant pool to collaborate with peers on deep learning and natural language processing projects involving the use of sentence-transformers, large language models, and retrieval-augmented generation (RAG) pipelines  
   
