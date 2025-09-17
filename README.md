@@ -7,12 +7,14 @@
 🌱 **Hometown**: Califon, New Jersey (Population: 900)  
 🏫 **Where am I now?**: Los Angeles, California (Population: 3.9 million)  
 😄 **Hobbies**: Listening to music, reading and writing poetry, hiking, visiting art museums
+___
 
 ## 💻 Technical Skills
 
 **Programming Languages**: Python, R, SQL, Java, C++, Bash  
 **Libraries/Frameworks**: BeautifulSoup, Matplotlib, NumPy, Pandas, Seaborn, Sentence Transformers, scikit-learn  
 **Tools**: Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, Vector Databases (Chroma)
+___
 
 ## 🔭 Relevant Experience
 * **[Data Science Intern](https://www.bdsy.org) at Yale University** - Selected as one of 25 undergraduates from a global pool of over 850 applicants for Yale's inaugural Big Data Summer Immersion (BDSY), engaging with Yale faculty over logistic regression, neural networks, advanced SQL querying, and the applications of generative AI models. Designed and led the presentation of an original research poster to an audience of ~100 Yale faculty and researchers at the Symposium on Big Data, Human Health, and Statistics (more details on this in the Project section below!)
