@@ -15,7 +15,7 @@ ___
 ## 💻 Technical Skills
 
 **Programming Languages**: Python, R, SQL, Java, C++, Bash  
-**Libraries/Frameworks**: BeautifulSoup, Matplotlib, NumPy, Pandas, Seaborn, Sentence Transformers, scikit-learn  
+**Libraries/Frameworks**: BeautifulSoup, ggplot2, Matplotlib, NumPy, Pandas, Seaborn, Sentence-Transformers, scikit-learn, sqlite3, Tidyverse
 **Tools**: ChromaDB, Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, VSCode
 ___
 
