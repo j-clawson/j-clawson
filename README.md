@@ -8,14 +8,14 @@
 🌱 **Hometown**: Califon, New Jersey (Population: 900)  
 🏫 **Where am I now?**: Los Angeles, California (Population: 3.9 million)  
 😄 **Hobbies**: Listening to music, reading and writing poetry, hiking, exploring art museums  
-🤔 **Coursework**: Real Analysis, Abstract Linear Algebra, Mathematical Statistics, Optimization, Data Mining, Advanced Modern Korean
+🤔 **Coursework**: Real Analysis, Abstract Linear Algebra, Mathematical Statistics, Optimization, Machine Learning, Data Mining, Advanced Modern Korean
 ___
 
 
 ## 💻 Technical Skills
 
 **Programming Languages**: Python, R, SQL, Java, C++, Bash  
-**Notable Libraries/Frameworks**: BeautifulSoup, CatBoost, Matplotlib, Pandas, Seaborn, Sentence-Transformers, scikit-learn, sqlite3, XGBoost
+**Libraries/Frameworks**: BeautifulSoup, CatBoost, Matplotlib, Pandas, Seaborn, Sentence-Transformers, scikit-learn, sqlite3, XGBoost
 **Tools**: ChromaDB, Git, Jupyter Notebooks, Microsoft Office Suite (Excel, PowerPoint, etc), Microsoft SQL Server, Tableau, VSCode
 ___
 
