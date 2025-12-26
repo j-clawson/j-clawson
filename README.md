@@ -8,7 +8,7 @@
 🌱 **Hometown**: Califon, New Jersey (Population: 900)  
 🏫 **Where am I now?**: Los Angeles, California (Population: 3.9 million)  
 😄 **Hobbies**: Listening to music, reading and writing poetry, hiking, exploring art museums  
-🤔 **Coursework**: Linear Algebra, Mathematical Statistics, Optimization, Machine Learning, Data Mining, Real Analysis, Intermediate Korean
+🤔 **Coursework**: Linear Algebra, Mathematical Statistics, Optimization, Machine Learning, Data Mining, Real Analysis, Korean
 ___
 
 
